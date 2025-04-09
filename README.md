@@ -71,4 +71,4 @@ npm test
 
 ---
 
-Feito por Letícia Scalco ☕🚀
+Feito por Leticia Scalco ☕🚀
