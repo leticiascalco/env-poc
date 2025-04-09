@@ -1,0 +1,19 @@
+{
+    "name": "env-poc",
+    "version": "1.0.0",
+    "main": "test.js",
+    "scripts": {
+        "start": "node test.js",
+        "test": "jest"
+    },
+    "dependencies": {
+        "dotenv": "^16.3.1"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    },
+    "jest": {
+      "setupFiles": ["./jest.setup.js"]
+    }
+
+}

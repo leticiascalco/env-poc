@@ -1,0 +1,2 @@
+AWS_REGION=sa-east-1
+CLIENT_SECRET_ARN=arn:aws:secretsmanager:sa-east-1:1234567890:secret:my-secret

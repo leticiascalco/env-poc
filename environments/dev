@@ -1,0 +1,2 @@
+AWS_REGION=us-east-1
+CLIENT_SECRET_ARN=arn:aws:secretsmanager:us-east-1:1234567890:secret:dev-secret
